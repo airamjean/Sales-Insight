@@ -1,2 +1,3 @@
-# Sales-Insight
-Cleaned and transformed sales data from a database using Power BI, then developed an interactive dashboard to visualize key metrics like revenue trends, product performance, and regional sales, enabling data-driven decision-making.
+# Sales Insight Project
+
+This project focused on extracting and refining sales data from a relational database to support accurate and actionable insights. Using Power BI's Power Query Editor, the data was systematically cleaned—addressing missing values, correcting inconsistent entries, removing duplicates, and ensuring proper data types. Once the data was transformed and validated, an interactive dashboard was developed to visualize key sales metrics such as revenue trends, product performance, regional sales distribution, and customer segments. The resulting dashboard enabled stakeholders to gain a comprehensive understanding of sales performance and supported strategic decision-making.
